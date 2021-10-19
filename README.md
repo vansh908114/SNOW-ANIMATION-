@@ -1,2 +1,1 @@
-# SNOW-ANIMATION-
-MADE BY CODER BOY VANSH 
+# SnowAnimation
